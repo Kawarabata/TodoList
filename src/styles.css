@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  margin-left: 50px;
+}
+.input_form {
+  width: 40%;
+  height: 30px;
+  border-radius: 20px;
+}
+.submit_button {
+  height: 30px;
+  border-radius: 20px;
+}
